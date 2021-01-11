@@ -17,6 +17,9 @@ raceassay.xlsx / invasionassay.xlsx
 Fig. 4. Loss of repeatable evolution conferred by a synonymous sequence mutant (AR2-sm):
 timetoemergencewsm.xlsx / muttable.xlsx
 
+Fig. 5. Gain of repeatable evolution conferred by a synonymous sequence mutant (Pf0-2x-sm6):
+timetoemergencepf0.xlsx / muttable2.xlsx
+
 Fig. S1. Growth kinetics of mutant AR2 lines in static liquid culture over 24h:
 staticgrowthsauc2.xlsx 
 
