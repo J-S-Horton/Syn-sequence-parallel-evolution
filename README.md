@@ -11,8 +11,8 @@ m9bleb.jpg / timetoemergencedata.xlsx / muttable.xlsx
 Fig. 2. Repeatability of the A289C ntrB mutation across genetic background and nutrient environment: 
 muttable.xlsx
 
-Fig. 3. Selection does not strongly favour ntrB A289C motility over alternative ntrB mutations:
-raceassay.xlsx / invasionassay.xlsx
+Fig. 3. ntrB mutants possess comparable motility phenotypesA289C :
+raceassay.xlsx
 
 Fig. 4. Loss of repeatable evolution conferred by a synonymous sequence mutant (AR2-sm):
 timetoemergencewsm.xlsx / muttable.xlsx
